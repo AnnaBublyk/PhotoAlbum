@@ -1,0 +1,37 @@
+<h2 mat-dialog-title>
+    Добавление фотографии
+</h2>
+
+<mat-dialog-content>
+    <div class="d-flex fd-column">
+        <button mat-button class="choose-btn mat-primary" (click)="fileInput.click()">
+            <mat-icon>library_add</mat-icon>
+            <span>Выбрать файл</span>
+            <input #fileInput
+                   type="file"
+                   accept="image/x-png, image/gif, image/jpeg"
+                   (change)="onFileSelected($event)"
+                   style="display:none;"
+            />
+        </button>
+        <mat-form-field>
+            <mat-label>Выберите категории</mat-label>
+            <mat-select [formControl]="tagsCtrl" multiple>
+                <mat-option *ngFor="let tag of dataService.tags" [value]="tag.TagId">
+                    {{ tag.Name }}
+                </mat-option>
+            </mat-select>
+        </mat-form-field>
+    </div>
+</mat-dialog-content>
+
+<mat-dialog-actions class="flex-end">
+    <button mat-button mat-dialog-close>Отмена</button>
+    <button mat-raised-button
+            class="mat-primary"
+            [disabled]="!selectedFile"
+            [mat-dialog-close]="{ Tags: tagsCtrl.value, file: selectedFile }"
+    >
+        Сохранить
+    </button>
+</mat-dialog-actions>

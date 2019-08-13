@@ -1,0 +1,56 @@
+D:\study\Epam\PhotoAlbum\DAL\bin\Debug\DAL.dll.config
+D:\study\Epam\PhotoAlbum\DAL\bin\Debug\DAL.dll
+D:\study\Epam\PhotoAlbum\DAL\bin\Debug\DAL.pdb
+D:\study\Epam\PhotoAlbum\DAL\bin\Debug\EntityFramework.dll
+D:\study\Epam\PhotoAlbum\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\study\Epam\PhotoAlbum\DAL\bin\Debug\RazorGenerator.Templating.dll
+D:\study\Epam\PhotoAlbum\DAL\bin\Debug\System.Web.Helpers.Crypto.dll
+D:\study\Epam\PhotoAlbum\DAL\bin\Debug\System.Web.Helpers.dll
+D:\study\Epam\PhotoAlbum\DAL\bin\Debug\EntityFramework.xml
+D:\study\Epam\PhotoAlbum\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\study\Epam\PhotoAlbum\DAL\bin\Debug\System.Web.Helpers.Crypto.pdb
+D:\study\Epam\PhotoAlbum\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\study\Epam\PhotoAlbum\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\study\Epam\PhotoAlbum\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\study\Epam\PhotoAlbum\DAL\obj\Debug\DAL.dll
+D:\study\Epam\PhotoAlbum\DAL\obj\Debug\DAL.pdb
+C:\Users\User\Desktop\PhotoAlbum\DAL\bin\Debug\DAL.dll.config
+C:\Users\User\Desktop\PhotoAlbum\DAL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\PhotoAlbum\DAL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\PhotoAlbum\DAL\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\PhotoAlbum\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\PhotoAlbum\DAL\bin\Debug\RazorGenerator.Templating.dll
+C:\Users\User\Desktop\PhotoAlbum\DAL\bin\Debug\System.Web.Helpers.Crypto.dll
+C:\Users\User\Desktop\PhotoAlbum\DAL\bin\Debug\System.Web.Helpers.dll
+C:\Users\User\Desktop\PhotoAlbum\DAL\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\PhotoAlbum\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\PhotoAlbum\DAL\bin\Debug\System.Web.Helpers.Crypto.pdb
+C:\Users\User\Desktop\PhotoAlbum\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\PhotoAlbum\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PhotoAlbum\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\User\Desktop\PhotoAlbum\DAL\obj\Debug\DAL.dll
+C:\Users\User\Desktop\PhotoAlbum\DAL\obj\Debug\DAL.pdb
+D:\study\Epam\PhotoAlbum\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\study\Epam\PhotoAlbum\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\study\Epam\PhotoAlbum\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\study\Epam\PhotoAlbum\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Проект\Проект с айдентити\PhotoAlbum\DAL\bin\Debug\DAL.dll.config
+D:\Проект\Проект с айдентити\PhotoAlbum\DAL\bin\Debug\DAL.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\DAL\bin\Debug\DAL.pdb
+D:\Проект\Проект с айдентити\PhotoAlbum\DAL\bin\Debug\EntityFramework.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\DAL\bin\Debug\RazorGenerator.Templating.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\DAL\bin\Debug\System.Web.Helpers.Crypto.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\DAL\bin\Debug\System.Web.Helpers.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\DAL\bin\Debug\EntityFramework.xml
+D:\Проект\Проект с айдентити\PhotoAlbum\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Проект\Проект с айдентити\PhotoAlbum\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Проект\Проект с айдентити\PhotoAlbum\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Проект\Проект с айдентити\PhotoAlbum\DAL\bin\Debug\System.Web.Helpers.Crypto.pdb
+D:\Проект\Проект с айдентити\PhotoAlbum\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Проект\Проект с айдентити\PhotoAlbum\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Проект\Проект с айдентити\PhotoAlbum\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Проект\Проект с айдентити\PhotoAlbum\DAL\obj\Debug\DAL.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,26 @@
+@import "../../../styles.css";
+
+.header {
+    display: flex;
+    padding: 20px;
+    background-color: #eaeaea;
+}
+
+.block-btn {
+    background-color: red !important;
+}
+
+.name {
+    font-size: 24px;
+    color: #6e6e6e;
+}
+
+.login {
+    color: #6e6e6e;
+    font-size: 18px;
+}
+
+.exit {
+    color: #6e6e6e;
+}
+

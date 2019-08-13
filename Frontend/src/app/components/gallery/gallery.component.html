@@ -1,0 +1,9 @@
+<div class="header d-flex justify-between" [class.flex-end]="!dataService.isAdmin">
+  <app-add-new-category *ngIf="dataService.isAdmin"></app-add-new-category>
+  <div class="login-actions">
+    <button mat-icon-button class="exit" (click)="logout()" *ngIf="dataService.user"><mat-icon>exit_to_app</mat-icon></button>
+    <button mat-raised-button (click)="login()" *ngIf="!dataService.user">Войти</button>
+  </div>
+</div>
+
+<app-photos [refreshList$]="refreshList$"></app-photos>

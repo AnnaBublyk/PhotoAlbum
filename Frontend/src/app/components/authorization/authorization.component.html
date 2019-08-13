@@ -1,0 +1,72 @@
+<div class="page">
+    <div class="container">
+        <div class="content">
+
+            <div class="login fd-column justify-center" *ngIf="isLogin">
+                <div class="title mb-15 text-uppercase">Аутентификация</div>
+                <form [formGroup]="loginForm" class="fd-column justify-center">
+                    <mat-form-field>
+                        <input matInput formControlName="UserName" placeholder="Введите логин">
+                    </mat-form-field>
+
+                    <mat-form-field>
+                        <input matInput formControlName="Password" type="password" placeholder="Введите пароль">
+                    </mat-form-field>
+                </form>
+            </div>
+
+            <div class="sign-up fd-column justify-center" *ngIf="!isLogin">
+                <div class="title mb-15">Авторизация</div>
+
+                <form [formGroup]="signUpForm" class="fd-column justify-center">
+                    <mat-form-field>
+                        <input matInput formControlName="FirstName" placeholder="Введите имя">
+                    </mat-form-field>
+
+                    <mat-form-field>
+                        <input matInput formControlName="LastName" placeholder="Введите фамилию">
+                    </mat-form-field>
+
+                    <mat-form-field>
+                        <input matInput formControlName="UserName" placeholder="Введите логин">
+                    </mat-form-field>
+
+                    <mat-form-field>
+                        <input matInput formControlName="Password" type="password" placeholder="Введите пароль">
+                    </mat-form-field>
+
+                    <mat-form-field>
+                        <input matInput formControlName="ConfirmPassword" type="password" placeholder="Повторите пароль">
+                    </mat-form-field>
+
+                </form>
+            </div>
+            <div class="buttons d-flex">
+                <button mat-raised-button
+                        *ngIf="isLogin"
+                        class="mat-accent flex-1 mr-20 justify-center text-uppercase"
+                        (click)="startSignUp()"
+                >
+                    Регистрация
+                </button>
+                <button mat-raised-button
+                        *ngIf="isLogin"
+                        class="mat-primary flex-1 justify-center text-uppercase"
+                        [disabled]="loginForm.invalid"
+                        (click)="logIn()"
+                >
+                    Войти
+                </button>
+
+                <button mat-raised-button
+                        *ngIf="!isLogin"
+                        class="mat-primary flex-1 justify-center text-uppercase"
+                        [disabled]="signUpForm.invalid"
+                        (click)="signUp()"
+                >
+                    Зарегистрироваться
+                </button>
+            </div>
+        </div>
+    </div>
+</div>

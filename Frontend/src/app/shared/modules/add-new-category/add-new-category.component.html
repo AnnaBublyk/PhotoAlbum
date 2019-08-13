@@ -1,0 +1,10 @@
+<button mat-raised-button *ngIf="!addingCategoryInProgress" class="mat-primary add-button" (click)="addCategory()">Добавить категорию</button>
+<div class="add-category d-flex fd-column mr-20" *ngIf="addingCategoryInProgress">
+  <mat-form-field>
+    <input matInput placeholder="Название новой категории" [formControl]="newCategoryCtrl">
+  </mat-form-field>
+  <div class="actions d-flex">
+    <button mat-raised-button class="mat-primary" [disabled]="newCategoryCtrl.invalid" (click)="saveNewCategory()">Сохранить</button>
+    <button mat-raised-button class="cancel-btn" (click)="cancelAddingCategory()">Отменить</button>
+  </div>
+</div>

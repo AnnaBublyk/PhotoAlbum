@@ -1,0 +1,43 @@
+<div class="header d-flex" *ngIf="profileInfo">
+  <div class="data fd-column">
+    <div class="name">{{ profileInfo.FirstName }} {{ profileInfo.LastName }}</div>
+    <div class="login">@{{ profileInfo.UserName }}</div>
+  </div>
+  <div class="buttons d-flex align-items-center">
+    <button mat-button
+            class="mat-primary mr-20"
+            (click)="goToGallery()"
+    >
+      Перейти в галлерею
+    </button>
+    <app-add-new-category *ngIf="dataService.isAdmin"></app-add-new-category>
+    <button mat-raised-button
+            class="mat-primary mr-20"
+            [disabled]="dataService.user.IsBlocked"
+            *ngIf="dataService.user && dataService.user.UserId === profileId"
+            (click)="startAddPhoto()"
+    >
+      Добавить новое фото
+    </button>
+    <button mat-raised-button
+            class="block-btn mr-20"
+            *ngIf="!profileInfo.IsBlocked && profileInfo.Role !== roleEnum.Admin && dataService.isAdmin"
+            (click)="blockUser()"
+    >
+      Заблокировать пользователя
+    </button>
+    <button mat-raised-button
+            class="unblock-btn mr-20"
+            *ngIf="profileInfo.IsBlocked && profileInfo.Role !== roleEnum.Admin && dataService.isAdmin"
+            (click)="unBlockUser()"
+    >
+      Разблокировать пользователя
+    </button>
+    <button mat-icon-button class="exit" *ngIf="dataService.user" (click)="logout()"><mat-icon>exit_to_app</mat-icon></button>
+    <button mat-raised-button *ngIf="!dataService.user" (click)="login()">Войти</button>
+  </div>
+</div>
+
+<div class="content">
+  <app-photos [refreshList$]="refreshList$" [profileId]="profileId"></app-photos>
+</div>

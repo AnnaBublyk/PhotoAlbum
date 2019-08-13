@@ -1,0 +1,350 @@
+D:\study\Epam\PhotoAlbum\PL\bin\PL.dll.config
+D:\study\Epam\PhotoAlbum\PL\bin\PL.dll
+D:\study\Epam\PhotoAlbum\PL\bin\PL.pdb
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\csc.exe
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\csc.exe.config
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\csc.rsp
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\csi.exe
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\csi.exe.config
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\csi.rsp
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\Microsoft.Managed.Core.targets
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\System.AppContext.dll
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\System.Collections.Immutable.dll
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\System.Console.dll
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\System.IO.Compression.dll
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\System.IO.FileSystem.dll
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\System.IO.Pipes.dll
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\System.Reflection.Metadata.dll
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\System.Security.AccessControl.dll
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\System.Security.Claims.dll
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\System.Security.Principal.Windows.dll
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\System.ValueTuple.dll
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\System.Xml.XmlDocument.dll
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\System.Xml.XPath.dll
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\vbc.exe
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\vbc.exe.config
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\vbc.rsp
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\VBCSCompiler.exe
+D:\study\Epam\PhotoAlbum\PL\bin\roslyn\VBCSCompiler.exe.config
+D:\study\Epam\PhotoAlbum\PL\bin\Antlr3.Runtime.dll
+D:\study\Epam\PhotoAlbum\PL\bin\BLL.dll
+D:\study\Epam\PhotoAlbum\PL\bin\DAL.dll
+D:\study\Epam\PhotoAlbum\PL\bin\EntityFramework.dll
+D:\study\Epam\PhotoAlbum\PL\bin\EntityFramework.SqlServer.dll
+D:\study\Epam\PhotoAlbum\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\study\Epam\PhotoAlbum\PL\bin\Microsoft.Web.Infrastructure.dll
+D:\study\Epam\PhotoAlbum\PL\bin\Newtonsoft.Json.dll
+D:\study\Epam\PhotoAlbum\PL\bin\System.Net.Http.Formatting.dll
+D:\study\Epam\PhotoAlbum\PL\bin\System.Web.Helpers.dll
+D:\study\Epam\PhotoAlbum\PL\bin\System.Web.Http.dll
+D:\study\Epam\PhotoAlbum\PL\bin\System.Web.Http.WebHost.dll
+D:\study\Epam\PhotoAlbum\PL\bin\System.Web.Mvc.dll
+D:\study\Epam\PhotoAlbum\PL\bin\System.Web.Optimization.dll
+D:\study\Epam\PhotoAlbum\PL\bin\System.Web.Razor.dll
+D:\study\Epam\PhotoAlbum\PL\bin\System.Web.WebPages.Deployment.dll
+D:\study\Epam\PhotoAlbum\PL\bin\System.Web.WebPages.dll
+D:\study\Epam\PhotoAlbum\PL\bin\System.Web.WebPages.Razor.dll
+D:\study\Epam\PhotoAlbum\PL\bin\WebGrease.dll
+D:\study\Epam\PhotoAlbum\PL\bin\System.Web.Helpers.Crypto.dll
+D:\study\Epam\PhotoAlbum\PL\bin\BLL.pdb
+D:\study\Epam\PhotoAlbum\PL\bin\DAL.pdb
+D:\study\Epam\PhotoAlbum\PL\bin\DAL.dll.config
+D:\study\Epam\PhotoAlbum\PL\bin\EntityFramework.xml
+D:\study\Epam\PhotoAlbum\PL\bin\EntityFramework.SqlServer.xml
+D:\study\Epam\PhotoAlbum\PL\bin\Newtonsoft.Json.xml
+D:\study\Epam\PhotoAlbum\PL\bin\System.Net.Http.Formatting.xml
+D:\study\Epam\PhotoAlbum\PL\bin\System.Web.Helpers.xml
+D:\study\Epam\PhotoAlbum\PL\bin\System.Web.Http.xml
+D:\study\Epam\PhotoAlbum\PL\bin\System.Web.Http.WebHost.xml
+D:\study\Epam\PhotoAlbum\PL\bin\System.Web.Mvc.xml
+D:\study\Epam\PhotoAlbum\PL\bin\System.Web.Optimization.xml
+D:\study\Epam\PhotoAlbum\PL\bin\System.Web.Razor.xml
+D:\study\Epam\PhotoAlbum\PL\bin\System.Web.WebPages.xml
+D:\study\Epam\PhotoAlbum\PL\bin\System.Web.WebPages.Deployment.xml
+D:\study\Epam\PhotoAlbum\PL\bin\System.Web.WebPages.Razor.xml
+D:\study\Epam\PhotoAlbum\PL\bin\Antlr3.Runtime.pdb
+D:\study\Epam\PhotoAlbum\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\study\Epam\PhotoAlbum\PL\bin\System.Web.Helpers.Crypto.pdb
+D:\study\Epam\PhotoAlbum\PL\obj\Debug\PL.csprojAssemblyReference.cache
+D:\study\Epam\PhotoAlbum\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+D:\study\Epam\PhotoAlbum\PL\obj\Debug\PL.csproj.CopyComplete
+D:\study\Epam\PhotoAlbum\PL\obj\Debug\PL.dll
+D:\study\Epam\PhotoAlbum\PL\obj\Debug\PL.pdb
+D:\study\Epam\PhotoAlbum\PL\bin\System.Web.Cors.dll
+D:\study\Epam\PhotoAlbum\PL\bin\System.Web.Http.Cors.dll
+D:\study\Epam\PhotoAlbum\PL\bin\System.Web.Http.Cors.xml
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\PL.dll.config
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\PL.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\PL.pdb
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\csc.exe
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\csi.exe
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\BLL.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\DAL.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\EntityFramework.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\System.Web.Cors.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\System.Web.Http.Cors.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\System.Web.Http.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\WebGrease.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\System.Web.Helpers.Crypto.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\BLL.pdb
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\DAL.pdb
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\DAL.dll.config
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\EntityFramework.xml
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\System.Web.Http.Cors.xml
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\System.Web.Http.xml
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\PhotoAlbum\PL\bin\System.Web.Helpers.Crypto.pdb
+C:\Users\User\Desktop\PhotoAlbum\PL\obj\Debug\PL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\PhotoAlbum\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PhotoAlbum\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\User\Desktop\PhotoAlbum\PL\obj\Debug\PL.dll
+C:\Users\User\Desktop\PhotoAlbum\PL\obj\Debug\PL.pdb
+D:\study\Epam\PhotoAlbum\PL\bin\Ninject.dll
+D:\study\Epam\PhotoAlbum\PL\bin\Ninject.Web.Common.dll
+D:\study\Epam\PhotoAlbum\PL\bin\Ninject.xml
+D:\study\Epam\PhotoAlbum\PL\bin\Ninject.Web.Common.xml
+D:\study\Epam\PhotoAlbum\PL\bin\WebActivatorEx.dll
+D:\study\Epam\PhotoAlbum\PL\bin\Ninject.Web.WebApi.dll
+D:\study\Epam\PhotoAlbum\PL\bin\Ninject.Web.WebApi.xml
+D:\study\Epam\PhotoAlbum\PL\bin\Ninject.Web.Common.WebHost.dll
+D:\study\Epam\PhotoAlbum\PL\bin\Ninject.Web.Common.WebHost.xml
+D:\study\Epam\PhotoAlbum\PL\bin\Microsoft.AspNet.Identity.Core.dll
+D:\study\Epam\PhotoAlbum\PL\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\study\Epam\PhotoAlbum\PL\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\study\Epam\PhotoAlbum\PL\bin\Microsoft.Owin.dll
+D:\study\Epam\PhotoAlbum\PL\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\study\Epam\PhotoAlbum\PL\bin\Microsoft.Owin.Security.Cookies.dll
+D:\study\Epam\PhotoAlbum\PL\bin\Microsoft.Owin.Security.dll
+D:\study\Epam\PhotoAlbum\PL\bin\Microsoft.Owin.Security.OAuth.dll
+D:\study\Epam\PhotoAlbum\PL\bin\Owin.dll
+D:\study\Epam\PhotoAlbum\PL\bin\Microsoft.AspNet.Identity.Core.xml
+D:\study\Epam\PhotoAlbum\PL\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\study\Epam\PhotoAlbum\PL\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\study\Epam\PhotoAlbum\PL\bin\Microsoft.Owin.xml
+D:\study\Epam\PhotoAlbum\PL\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\study\Epam\PhotoAlbum\PL\bin\Microsoft.Owin.Security.xml
+D:\study\Epam\PhotoAlbum\PL\bin\Microsoft.Owin.Security.Cookies.xml
+D:\study\Epam\PhotoAlbum\PL\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\PL.dll.config
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\PL.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\PL.pdb
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\csc.exe
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\csc.exe.config
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\csc.rsp
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\csi.exe
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\csi.exe.config
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\csi.rsp
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\System.AppContext.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\System.Collections.Immutable.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\System.Console.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\System.IO.Compression.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\System.IO.FileSystem.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\System.IO.Pipes.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\System.Reflection.Metadata.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\System.Security.AccessControl.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\System.Security.Claims.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\System.ValueTuple.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\System.Xml.XPath.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\vbc.exe
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\vbc.exe.config
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\vbc.rsp
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\VBCSCompiler.exe
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\roslyn\VBCSCompiler.exe.config
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Antlr3.Runtime.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\BLL.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\DAL.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\EntityFramework.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\EntityFramework.SqlServer.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Microsoft.Owin.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Microsoft.Owin.Security.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Microsoft.Web.Infrastructure.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Newtonsoft.Json.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Ninject.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Ninject.Web.Common.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Ninject.Web.Common.WebHost.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Ninject.Web.WebApi.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Owin.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\System.Net.Http.Formatting.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\System.Web.Cors.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\System.Web.Helpers.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\System.Web.Http.Cors.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\System.Web.Http.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\System.Web.Http.WebHost.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\System.Web.Mvc.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\System.Web.Optimization.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\System.Web.Razor.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\System.Web.WebPages.Deployment.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\System.Web.WebPages.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\System.Web.WebPages.Razor.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\WebActivatorEx.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\WebGrease.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\BLL.pdb
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\DAL.pdb
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\DAL.dll.config
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\EntityFramework.xml
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\EntityFramework.SqlServer.xml
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Microsoft.Owin.xml
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Microsoft.Owin.Security.xml
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Ninject.xml
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Ninject.Web.Common.xml
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Ninject.Web.Common.WebHost.xml
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Ninject.Web.WebApi.xml
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\System.Web.Http.Cors.xml
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Newtonsoft.Json.xml
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\System.Net.Http.Formatting.xml
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\System.Web.Helpers.xml
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\System.Web.Http.xml
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\System.Web.Http.WebHost.xml
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\System.Web.Mvc.xml
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\System.Web.Optimization.xml
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\System.Web.Razor.xml
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\System.Web.WebPages.xml
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\System.Web.WebPages.Deployment.xml
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\System.Web.WebPages.Razor.xml
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Antlr3.Runtime.pdb
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\obj\Debug\PL.csprojAssemblyReference.cache
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\obj\Debug\PL.csproj.CopyComplete
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\obj\Debug\PL.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\obj\Debug\PL.pdb
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Microsoft.IdentityModel.Logging.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Microsoft.IdentityModel.Logging.pdb
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Microsoft.IdentityModel.Logging.xml
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Microsoft.IdentityModel.Tokens.pdb
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\Проект\Проект с айдентити\PhotoAlbum\PL\bin\System.IdentityModel.Tokens.Jwt.xml

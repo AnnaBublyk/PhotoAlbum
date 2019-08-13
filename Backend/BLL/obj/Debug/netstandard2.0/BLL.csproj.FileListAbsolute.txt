@@ -1,0 +1,43 @@
+D:\study\Epam\PhotoAlbum\BLL\bin\Debug\netstandard2.0\BLL.deps.json
+D:\study\Epam\PhotoAlbum\BLL\bin\Debug\netstandard2.0\BLL.dll
+D:\study\Epam\PhotoAlbum\BLL\obj\Debug\netstandard2.0\BLL.csproj.CoreCompileInputs.cache
+D:\study\Epam\PhotoAlbum\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfoInputs.cache
+D:\study\Epam\PhotoAlbum\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfo.cs
+D:\study\Epam\PhotoAlbum\BLL\bin\Debug\netstandard2.0\BLL.pdb
+D:\study\Epam\PhotoAlbum\BLL\bin\Debug\netstandard2.0\DAL.dll
+D:\study\Epam\PhotoAlbum\BLL\bin\Debug\netstandard2.0\System.Web.Helpers.Crypto.dll
+D:\study\Epam\PhotoAlbum\BLL\bin\Debug\netstandard2.0\DAL.pdb
+D:\study\Epam\PhotoAlbum\BLL\bin\Debug\netstandard2.0\DAL.dll.config
+D:\study\Epam\PhotoAlbum\BLL\bin\Debug\netstandard2.0\System.Web.Helpers.Crypto.pdb
+D:\study\Epam\PhotoAlbum\BLL\obj\Debug\netstandard2.0\BLL.csprojAssemblyReference.cache
+D:\study\Epam\PhotoAlbum\BLL\obj\Debug\netstandard2.0\BLL.csproj.CopyComplete
+D:\study\Epam\PhotoAlbum\BLL\obj\Debug\netstandard2.0\BLL.dll
+D:\study\Epam\PhotoAlbum\BLL\obj\Debug\netstandard2.0\BLL.pdb
+C:\Users\User\Desktop\PhotoAlbum\BLL\bin\Debug\netstandard2.0\BLL.deps.json
+C:\Users\User\Desktop\PhotoAlbum\BLL\bin\Debug\netstandard2.0\BLL.dll
+C:\Users\User\Desktop\PhotoAlbum\BLL\bin\Debug\netstandard2.0\BLL.pdb
+C:\Users\User\Desktop\PhotoAlbum\BLL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\User\Desktop\PhotoAlbum\BLL\bin\Debug\netstandard2.0\System.Web.Helpers.Crypto.dll
+C:\Users\User\Desktop\PhotoAlbum\BLL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\User\Desktop\PhotoAlbum\BLL\bin\Debug\netstandard2.0\DAL.dll.config
+C:\Users\User\Desktop\PhotoAlbum\BLL\bin\Debug\netstandard2.0\System.Web.Helpers.Crypto.pdb
+C:\Users\User\Desktop\PhotoAlbum\BLL\obj\Debug\netstandard2.0\BLL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\PhotoAlbum\BLL\obj\Debug\netstandard2.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PhotoAlbum\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PhotoAlbum\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfo.cs
+C:\Users\User\Desktop\PhotoAlbum\BLL\obj\Debug\netstandard2.0\BLL.csproj.CopyComplete
+C:\Users\User\Desktop\PhotoAlbum\BLL\obj\Debug\netstandard2.0\BLL.dll
+C:\Users\User\Desktop\PhotoAlbum\BLL\obj\Debug\netstandard2.0\BLL.pdb
+D:\Проект\Проект с айдентити\PhotoAlbum\BLL\bin\Debug\netstandard2.0\BLL.deps.json
+D:\Проект\Проект с айдентити\PhotoAlbum\BLL\bin\Debug\netstandard2.0\BLL.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\BLL\bin\Debug\netstandard2.0\BLL.pdb
+D:\Проект\Проект с айдентити\PhotoAlbum\BLL\bin\Debug\netstandard2.0\DAL.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\BLL\bin\Debug\netstandard2.0\DAL.pdb
+D:\Проект\Проект с айдентити\PhotoAlbum\BLL\bin\Debug\netstandard2.0\DAL.dll.config
+D:\Проект\Проект с айдентити\PhotoAlbum\BLL\obj\Debug\netstandard2.0\BLL.csprojAssemblyReference.cache
+D:\Проект\Проект с айдентити\PhotoAlbum\BLL\obj\Debug\netstandard2.0\BLL.csproj.CoreCompileInputs.cache
+D:\Проект\Проект с айдентити\PhotoAlbum\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfoInputs.cache
+D:\Проект\Проект с айдентити\PhotoAlbum\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfo.cs
+D:\Проект\Проект с айдентити\PhotoAlbum\BLL\obj\Debug\netstandard2.0\BLL.csproj.CopyComplete
+D:\Проект\Проект с айдентити\PhotoAlbum\BLL\obj\Debug\netstandard2.0\BLL.dll
+D:\Проект\Проект с айдентити\PhotoAlbum\BLL\obj\Debug\netstandard2.0\BLL.pdb

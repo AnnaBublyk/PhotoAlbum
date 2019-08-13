@@ -1,0 +1,75 @@
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="filters">
+                <div class="tabs d-flex align-items-center">
+                    <div class="new mr-20" (click)="activateSortByNew()" [class.active]="!isOldSort">
+                        Новые
+                    </div>
+                    <div class="old" (click)="activateSortByFavorite()" [class.active]="isOldSort">
+                        Старые
+                    </div>
+                </div>
+                <div class="tags-filter d-flex align-items-center" *ngIf="dataService.tags">
+                    <mat-form-field>
+                        <mat-label>Выберите категории</mat-label>
+                        <mat-select [formControl]="tagsCtrl" multiple>
+                            <mat-option *ngFor="let tag of dataService.tags" [value]="tag.TagId">
+                                {{ tag.Name }}
+                            </mat-option>
+                        </mat-select>
+                    </mat-form-field>
+                    <button mat-raised-button class="mat-primary apply-btn" [disabled]="tagsCtrl.pristine" (click)="applyTags()">Применить</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="photos-list">
+    <div class="container">
+        <div class="row" *ngIf="photos && photos.length; else emptyList">
+            <div class="col-md-4" *ngFor="let photo of photos">
+                <mat-card class="mb-20">
+                    <div class="photo mt-20">
+                        <button [disabled]="dataService.user.IsBlocked" mat-icon-button class="remove-btn"
+                                *ngIf="dataService.isAdmin || dataService.isModerator || (dataService.user && dataService.user.UserId === profileId)"
+                                (click)="removeImage(photo.PhotoId)"
+                        >
+                            <mat-icon>highlight_off</mat-icon>
+                        </button>
+                        <img [src]="'http://localhost:64918/' + photo.PicturePath" alt="photo">
+                        <div class="info d-flex">
+                            <div class="d-flex justify-between">
+                                <div class="likes d-flex align-items-center">
+                                    <button [disabled]="!dataService.user || dataService.user.IsBlocked" *ngIf="!getIsLiked(photo.Likes); else unlike" mat-icon-button (click)="like(photo.PhotoId)">
+                                        <mat-icon [class.active]="dataService.user && !dataService.user.IsBlocked">favorite_border</mat-icon>
+                                    </button>
+                                    <ng-template #unlike>
+                                        <button [disabled]="!dataService.user || dataService.user.IsBlocked" mat-icon-button (click)="dislike(photo.PhotoId)">
+                                            <mat-icon [class.active]="dataService.user && !dataService.user.IsBlocked">favorite</mat-icon>
+                                        </button>
+                                    </ng-template>
+                                    <div class="likes-count">
+                                        {{ photo.Likes.length }}
+                                    </div>
+                                </div>
+                                <a class="user-name d-flex align-items-center" [routerLink]="'/profile/' + photo.ProfileId">@{{ photo.UserName }}</a>
+                            </div>
+                            <div class="categories">
+                                <div class="category ml-10" *ngFor="let tag of photo.Tags">
+                                    #{{ tag.Name }}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </mat-card>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<ng-template #emptyList>
+    <h1 style="text-align: center">Не найдено ни одной фотографии</h1>
+</ng-template>
