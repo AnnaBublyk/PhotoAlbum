@@ -1,12 +1,10 @@
 ﻿using DAL.DataModel;
 using DAL.Interfaces;
-using System;
-using System.Collections.Generic;
 using System.Linq;
 
 namespace DAL.Repositories
 {
-   
+
     public class ProfileRepository : IRepository<Profile>
     {
         private PhotoAlbumContext db;

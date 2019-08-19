@@ -1,11 +1,6 @@
 ﻿using BLL.DTO;
 using BLL.Interface;
-using BLL.Services;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Net;
-using System.Net.Http;
 using System.Web.Http;
 using System.Web.Http.Results;
 
@@ -23,7 +18,7 @@ namespace PL.Controllers
         {
             myProfileService = _myProfileService;
         }
-        // [Authorize]
+
         /// <summary>Blocks the profile.</summary>
         /// <param name="profile">The profile.</param>
         /// <returns>IHttpActionResult.</returns>
@@ -40,7 +35,7 @@ namespace PL.Controllers
             else
                 return new StatusCodeResult(HttpStatusCode.MethodNotAllowed, this);
         }
-        //  [Authorize]
+
         /// <summary>Unblocks the profile.</summary>
         /// <param name="profile">The profile.</param>
         /// <returns>IHttpActionResult.</returns>

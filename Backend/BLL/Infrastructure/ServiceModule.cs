@@ -1,9 +1,6 @@
 ﻿using DAL.Interfaces;
 using DAL.Repositories;
 using Ninject.Modules;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace BLL.Infrastructure
 {

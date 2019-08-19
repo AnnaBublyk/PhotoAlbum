@@ -1,5 +1,4 @@
 ﻿using BLL.DTO;
-using System.Collections.Generic;
 using System.Linq;
 
 namespace BLL.Interface

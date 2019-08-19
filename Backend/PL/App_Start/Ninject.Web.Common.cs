@@ -6,9 +6,7 @@ namespace PL.App_Start
 {
     using System;
     using System.Web;
-
     using Microsoft.Web.Infrastructure.DynamicModuleHelper;
-
     using Ninject;
     using Ninject.Web.Common;
     using Ninject.Web.Common.WebHost;
@@ -19,6 +17,7 @@ namespace PL.App_Start
     using BLL.DTO;
     using Ninject.Modules;
     using BLL.Infrastructure;
+    using Microsoft.Owin.Security;
 
     public static class NinjectWebCommon
     {
@@ -79,6 +78,11 @@ namespace PL.App_Start
             kernel.Bind<IService<LikeDTO>>().To<LikeService>();
             kernel.Bind<IProfileService>().To<ProfileService>();
             kernel.Bind<IUserService>().To<UserService>();
+            kernel.Bind<IAuthenticationManager>().ToMethod(context =>
+            {
+                var contextBase = new HttpContextWrapper(HttpContext.Current);
+                return contextBase.GetOwinContext().Authentication;
+            });
         }
     }
 }

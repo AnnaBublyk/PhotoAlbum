@@ -1,7 +1,6 @@
 ﻿using DAL.DataModel;
 using DAL.Identity;
 using System;
-using System.Threading.Tasks;
 
 namespace DAL.Interfaces
 {

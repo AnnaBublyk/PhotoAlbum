@@ -1,7 +1,6 @@
 ﻿using DAL.DataModel;
 using DAL.Interfaces;
 using System;
-using System.Collections.Generic;
 using System.Data.Entity.Migrations;
 using System.Linq;
 

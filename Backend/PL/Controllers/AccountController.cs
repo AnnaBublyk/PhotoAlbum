@@ -1,18 +1,13 @@
 ﻿using BLL.DTO;
 using BLL.Interface;
-using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using PL.Models;
-using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Security.Claims;
-using System.Threading.Tasks;
 using System.Web;
 using System.Web.Http;
-using System.Web.Http.Cors;
 using System.Web.Mvc;
 
 namespace PL.Controllers
@@ -20,6 +15,7 @@ namespace PL.Controllers
     /// <summary>Class AccountController.
     /// Implements the <see cref="System.Web.Http.ApiController"/></summary>
     /// <seealso cref="System.Web.Http.ApiController" />
+    [System.Web.Http.AllowAnonymous]
     public class AccountController : ApiController
     {
         private IUserService UserService;

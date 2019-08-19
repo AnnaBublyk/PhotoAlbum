@@ -2,7 +2,6 @@
 using DAL.Identity;
 using DAL.Interfaces;
 using Microsoft.AspNet.Identity.EntityFramework;
-using System.Threading.Tasks;
 
 namespace DAL.Repositories
 {

@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web.Http;
+﻿using System.Web.Http;
 using System.Web.Http.Cors;
 
 namespace PL
@@ -11,6 +8,7 @@ namespace PL
         public static void Register(HttpConfiguration config)
         {
             // Web API configuration and services
+           // config.Filters.Add(new AuthorizeAttribute());
 
             // Web API routes
             config.MapHttpAttributeRoutes();
@@ -25,8 +23,9 @@ namespace PL
             config.Formatters.JsonFormatter.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Serialize;
             var corsAttribute = new EnableCorsAttribute("*", "*", "*");
             config.EnableCors(corsAttribute);
-
             
+
+
 
         }
     }

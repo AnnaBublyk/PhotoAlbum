@@ -5,12 +5,9 @@ using DAL.Interfaces;
 using System.Linq;
 using System;
 using Microsoft.AspNet.Identity;
-using System.Threading.Tasks;
 using System.Collections.Generic;
 using System.Security.Claims;
 using System.IdentityModel.Tokens.Jwt;
-using System.IdentityModel.Tokens;
-using Newtonsoft.Json;
 
 namespace BLL.Services
 {

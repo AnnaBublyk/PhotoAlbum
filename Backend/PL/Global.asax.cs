@@ -2,6 +2,7 @@
 using DAL.DataModel;
 using Ninject;
 using Ninject.Modules;
+using Ninject.Web.WebApi;
 using PL.App_Start;
 using System;
 using System.Collections.Generic;
@@ -29,7 +30,6 @@ namespace PL
             {
                 context.Database.Initialize(force: true);
             }
-
         }
     }
 }

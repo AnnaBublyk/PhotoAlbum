@@ -1,16 +1,12 @@
 ﻿using BLL.DTO;
 using BLL.Interface;
-using BLL.Services;
-using Newtonsoft.Json;
 using System;
-using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Net;
 using System.Web;
 using System.Web.Http;
 using System.Web.Http.Cors;
-using System.Web.Http.Description;
 using System.Web.Http.Results;
 
 namespace PL.Controllers
@@ -28,7 +24,7 @@ namespace PL.Controllers
         {
             myPhotoService = _myPhotoService;
         }
-        // [Authorize]
+
         /// <summary>Deletes the photo.</summary>
         /// <param name="photo">The photo.</param>
         /// <returns>IHttpActionResult.</returns>
@@ -46,7 +42,7 @@ namespace PL.Controllers
                 return new StatusCodeResult(HttpStatusCode.MethodNotAllowed, this);
 
         }
-        // [Authorize]
+
         /// <summary>Adds the like.</summary>
         /// <param name="photo">The photo.</param>
         /// <returns>IHttpActionResult.</returns>
@@ -63,7 +59,6 @@ namespace PL.Controllers
             else
                 return new StatusCodeResult(HttpStatusCode.MethodNotAllowed, this);
         }
-        // [Authorize]
         /// <summary>Removes the like.</summary>
         /// <param name="photo">The photo.</param>
         /// <returns>IHttpActionResult.</returns>
@@ -94,7 +89,7 @@ namespace PL.Controllers
             var photos = myPhotoService.SeachPhoto(masTag, isOld, profileId );
             return photos;
         }
-        //[Authorize]
+
         /// <summary>Uploads the photo.</summary>
         /// <param name="id">The identifier.</param>
         /// <returns>IHttpActionResult.</returns>
@@ -111,7 +106,7 @@ namespace PL.Controllers
             var photoId= myPhotoService.UploadToDb(path, filename, id);
             return Ok(photoId);
         }
-        //[Authorize]
+
         /// <summary>Adds the tags to photo.</summary>
         /// <param name="req">The req.</param>
         /// <returns>IHttpActionResult.</returns>
